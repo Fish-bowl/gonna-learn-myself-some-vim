@@ -1,0 +1,17 @@
+adding, subtacting, multiplying, and dividing ints
+
++n +(+n) = +n
+-n +(+n) = larger numbers op
+-n -(-n) = -n 
++n * (+n) = +n 
+-n * (+n) = -n
+-n * (-n) = +n
+
+n ^ n = n * n 
+n ^ 3 = n * n * n
+
+(-n)^2 = -n * -n
+-(n)^2 = n * n - 
+
+
+

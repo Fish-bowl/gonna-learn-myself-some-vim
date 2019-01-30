@@ -1,0 +1,19 @@
+	Objective
+write a script to take in my online math homework. parse the html and get the problem out of the page. 
+then run that problem against wolfram alfa.
+get answer for problem and properly format the answer into the answer box. 
+hit submit 
+profit 
+
+	TODO
+find wolfram alfa's api and familiarize with docs
+
+ruby or python?
+
+if ruby use mechanize, and open-uri
+if python use beautiful soup
+
+figure out how to bypass the slcc login and canvas login 
+	figure out when i need to run program 
+	perhaps it has to be ran for each module
+
